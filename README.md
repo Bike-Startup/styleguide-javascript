@@ -1,8 +1,7 @@
+# Bike Startup & Co. JavaScript スタイルガイド
 
-
-# Bike Startup & Co. JavaScript スタイルガイド() {
-
-株式会社 自転車創業 のJavaScript スタイルガイドです。（ fork Airbnb styleguide ）
+株式会社 自転車創業 のJavaScript スタイルガイドです。
+modified Airbnb Style Guide
 
 ## 目次
 
@@ -2499,7 +2498,6 @@ We encourage you to fork this guide and change the rules to fit your team's styl
 我々はこのガイドをforkして、あなたのチームに適したスタイルガイドとして変更することを勧めます。以下にあなたがスタイルガイドに加えた変更をリストにしてください。
 こうすることで、マージの煩わしさに気を取られることなく、あなたのスタイルガイドを定期的に更新することができます。
 
-# };
 
 ## 変更履歴(Changelog)
 
